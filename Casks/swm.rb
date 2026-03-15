@@ -1,6 +1,6 @@
 cask "swm" do
   version "1.0.0"
-  sha256 "45cdc69bad9a94757624bf8f0474754121016e06d01cc99cbd81b8c5f19e2ae8"
+  sha256 "23aed05c49e9026a0eff78247c000c09e415fd333745a390356e2d4ff8336fbb"
 
   url "https://github.com/alexrett/simple-window-manager/releases/download/v#{version}/SWM.dmg"
   name "SWM"
