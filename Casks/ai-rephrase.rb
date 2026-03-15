@@ -1,6 +1,6 @@
 cask "ai-rephrase" do
   version "1.1.0"
-  sha256 "da13853d4a8a002fb58848e9357ae070e38d61632a6ac4fa3e94b5ae6962a0d5"
+  sha256 "b7543fe69ff41558bc16acd0b5105846913bdbc7f6470827a67b5bc4b400b243"
 
   url "https://github.com/alexrett/rephrase/releases/download/v#{version}/AiRephrase.dmg"
   name "AI Rephrase"
