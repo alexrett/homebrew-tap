@@ -1,6 +1,6 @@
 cask "idler" do
-  version "2.0.0"
-  sha256 "908084d31d011b46ded8bea35166517d3d3886d7190392ba2e50e152989355e9"
+  version "2.1.0"
+  sha256 "212ce89b286dc5f9b9bd763c92036e269596590b81be52d988b1cc74f84f3fa9"
 
   url "https://github.com/alexrett/idler2/releases/download/v#{version}/Idler.dmg"
   name "Idler"
