@@ -17,5 +17,6 @@ brew tap alexrett/tap
 | [Idler](https://github.com/alexrett/idler2) | `brew install --cask alexrett/tap/idler` | Keep your Mac awake with one click |
 | [AI Rephrase](https://github.com/alexrett/rephrase) | `brew install --cask alexrett/tap/ai-rephrase` | Rephrase selected text with Apple Intelligence |
 | [SimpleShot](https://github.com/alexrett/simpleshot) | `brew install --cask alexrett/tap/simpleshot` | Wrap screenshots in gradient backgrounds |
+| [SWM](https://github.com/alexrett/simple-window-manager) | `brew install --cask alexrett/tap/swm` | Simple, opinionated window manager |
 
 All apps are native macOS (SwiftUI), signed and notarized with Apple Developer ID.
