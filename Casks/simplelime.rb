@@ -1,6 +1,6 @@
 cask "simplelime" do
-  version "0.1.1"
-  sha256 "c7399218feb933f0e2f50b144050cd3fe104cda485b601682233aa4fb6950fbb"
+  version "0.2.0"
+  sha256 "d76ef57442890f1156a46d98ff1980678cbf205cb134dddb71622cdebb1da74d"
 
   url "https://github.com/alexrett/simplelime/releases/download/v#{version}/SimpleLime.dmg"
   name "SimpleLime"
@@ -10,6 +10,7 @@ cask "simplelime" do
   depends_on macos: ">= :ventura"
 
   app "SimpleLime.app"
+  binary "#{appdir}/SimpleLime.app/Contents/Resources/simplelime"
 
   zap trash: [
     "~/Library/Application Support/SimpleLime",
