@@ -1,6 +1,6 @@
 cask "simplelime" do
-  version "0.3.4"
-  sha256 "7406b21324736a98c16294a11de958b089e56b38e3c547bd0cf1193cbdea45cd"
+  version "0.3.5"
+  sha256 "ab2380b148ac3a2bc2d395c8bf5ab22b87d73c2547e5aefe709f11cbff361191"
 
   url "https://github.com/alexrett/simplelime/releases/download/v#{version}/SimpleLime.dmg"
   name "SimpleLime"
