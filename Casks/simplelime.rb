@@ -7,7 +7,7 @@ cask "simplelime" do
   desc "Scratch-first text editor with temporary buffers and AI assistance"
   homepage "https://github.com/alexrett/simplelime"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: ">= :sonoma"
 
   app "SimpleLime.app"
   binary "#{appdir}/SimpleLime.app/Contents/Resources/simplelime"
