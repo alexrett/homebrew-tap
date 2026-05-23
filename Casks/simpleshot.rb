@@ -1,8 +1,8 @@
 cask "simpleshot" do
-  version "1.4.3"
-  sha256 "52975618a97049e805b0668e1479245d42297d0e54f628a106c5afe93703e4b4"
+  version "1.5.0-test8"
+  sha256 "b22ed2d2120c85d7d8555c20d61882ccd052c67142f63793335eb47c5b34b7b7"
 
-  url "https://github.com/alexrett/simpleshot/releases/download/v#{version}/SimpleShot.dmg"
+  url "https://github.com/alexrett/simpleshot/releases/download/v1.5.0-test8/SimpleShot.dmg"
   name "SimpleShot"
   desc "Wrap screenshots in beautiful gradient backgrounds and annotate them"
   homepage "https://github.com/alexrett/simpleshot"
