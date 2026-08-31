@@ -18,5 +18,6 @@ brew tap alexrett/tap
 | [AI Rephrase](https://github.com/alexrett/rephrase) | `brew install --cask alexrett/tap/ai-rephrase` | Rephrase selected text with Apple Intelligence |
 | [SimpleShot](https://github.com/alexrett/simpleshot) | `brew install --cask alexrett/tap/simpleshot` | Wrap screenshots in gradient backgrounds |
 | [SWM](https://github.com/alexrett/simple-window-manager) | `brew install --cask alexrett/tap/swm` | Simple, opinionated window manager |
+| [Window Burn](https://github.com/alexrett/window-burn) | `brew install --cask alexrett/tap/window-burn` | Burn windows away with Beryl-inspired Metal effects |
 
-All apps are native macOS (SwiftUI), signed and notarized with Apple Developer ID.
+All apps are native macOS, signed and notarized with Apple Developer ID.
