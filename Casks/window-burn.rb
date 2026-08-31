@@ -22,6 +22,10 @@ cask "window-burn" do
     Window Burn requires Accessibility, Screen Recording, and Input Monitoring
     permissions in System Settings → Privacy & Security.
 
+    Screen Recording may not prompt automatically. Open Screen & System Audio
+    Recording, click +, and add /Applications/Window Burn.app manually. Then
+    quit and reopen Window Burn.
+
     Warning: recognized unsaved-document sheets are closed with Delete / Don't Save.
     Those changes cannot be recovered.
   EOS
