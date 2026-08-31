@@ -7,7 +7,7 @@ cask "window-burn" do
   desc "Burn windows away with Beryl-inspired Metal effects"
   homepage "https://github.com/alexrett/window-burn"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Window Burn.app"
 
