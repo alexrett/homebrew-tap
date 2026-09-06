@@ -1,6 +1,6 @@
 cask "window-burn" do
-  version "0.3.1"
-  sha256 "aa394b8222ce7abec7d8d4d68d84e79d6decc46d871afa8b520b8ddc963f202c"
+  version "0.4.0"
+  sha256 "5a549b22f7bc3e19541be9b1938436328174c4024f2b79c001114a0954bbb481"
 
   url "https://github.com/alexrett/window-burn/releases/download/v#{version}/WindowBurn.dmg"
   name "Window Burn"
